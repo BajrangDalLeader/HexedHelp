@@ -1,7 +1,7 @@
 {
     "thread": {
-        "title": "ModMail Bot Commands page 1",
-        "title2": "ModMail Bot Commands page 2",
+        "title": "Tarbooj ModMaiL Bot Commands page 1",
+        "title2": "Tarbooj ModMaiL Bot Commands page 2",
         "reply": "Send a reply to the user.",
         "areply": "Send an anonymous reply to the user. Anonymous replies only show the moderator's role in the reply.",
         "close": "Close a thread.  Include <time> to delay close or leave out to close immediately.",
@@ -24,7 +24,7 @@
         "message": "Shows the DM channel ID, DM message ID, and message link of the specified user reply. <number> is the message number shown in front of staff replies in the thread channel"
     },
     "global": {
-        "title": "Global ModMail Bot Commands",
+        "title": "Tarbooj ModMaiL Bot Commands",
         "newthread": "Open a Modmail thread with a user.",
         "glogs": "List previous Modmail logs with the specified user.",
         "block": "Block the specified user from Modmail. Add time to specify a time.",
